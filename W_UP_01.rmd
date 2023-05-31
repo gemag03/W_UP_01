@@ -62,7 +62,7 @@ The position that did the most pushups was the skills box.The line helps us dete
 favstats(pushups~position,data=mydata)
 ```
 
-The skill players are doing more pushups 
+The skill players are doing more pushups than the line because we see in Q1 the skill players got 31.25. Compared to the line which were at 10.25.  
 
 
 
