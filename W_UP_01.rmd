@@ -74,7 +74,7 @@ The skill players are doing more pushups than the line because we see in Q1 the 
 t.test(pushups~position,data=mydata)
 ```
 
-
+The previous data shows me that skill players do more pushups and this data also proves it as well. Line players a mean of around 17.13 and skill players have a mean of around 49.73. Showing a big difference. 
 
 
 # Discussion and Conclusion
