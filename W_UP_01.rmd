@@ -51,7 +51,7 @@ ggplot(mydata, aes(x = position, y = pushups)) +
   theme(plot.title = element_text(size = 20, hjust = 0.5))
 ```
 
-The position that did the most pushups was the skills box.The line helps us determine that. 
+The position that did the most pushups was the skills box.The line helps us determine that.We see for skills the line stops at 90 and for the lines it stops at around 33.The median for both boxes also tells us which is7.5more. The line median is around 14.5 while the skill median is around 40
 
 
 ### Numerical Descriptive Results
